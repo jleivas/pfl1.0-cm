@@ -186,7 +186,7 @@
 							<div class="col-md-6">
 								<div class="form-group">
 									<p>EMAIL <span class="star">*</span></p>
-									<input type="email" class="form-control" name="mail" id="mail"/>
+									<input type="email" class="form-control" name="email" id="email"/>
 								</div>
 							</div>
 						</div>
