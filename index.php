@@ -175,7 +175,7 @@
 		<div class="container">
 			<div class="col-md-12 contact-field">
 				<div class="col-md-6">
-					<form>
+				<form action="private/fn/fnSendos.php" role="form" method="post">
 						<div class="row">
 							<div class="col-md-6">
 								<div class="form-group">
@@ -219,8 +219,7 @@
 							<div class="img-wrapper">
 								<img class="img-responsive" src="assets/images/icons/call.png" alt="" />
 							</div>
-							<p>+044 425 541 42 / +044 455 541 44
-								<br>+044 455 541 46 (FAX)
+							<p>+569 552 986 94
 							</p>
 						</div>
 						<hr>
