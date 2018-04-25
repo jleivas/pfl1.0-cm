@@ -197,7 +197,7 @@
 									<textarea class="form-control message" rows="2" name="mensaje" id="mensaje"></textarea>
 								</div>
 								<p>
-								  <a href="#" type="button" class="btn btn-tobais btn-send">ENVIAR MENSAJE</a>
+								<button type="submit" class="btn btn-tobais btn-send">ENVIAR MENSAJE</button>
 								</p>
 							</div>
 						</div>
