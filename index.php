@@ -180,13 +180,13 @@
 							<div class="col-md-6">
 								<div class="form-group">
 									<p>NOMBRE <span class="star">*</span></p>
-									<input type="text" class="form-control" name="name" id="name"/>
+									<input type="text" class="form-control" name="nombre" id="nombre"/>
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="form-group">
 									<p>EMAIL <span class="star">*</span></p>
-									<input type="email" class="form-control" name="email" id="email"/>
+									<input type="email" class="form-control" name="mail" id="mail"/>
 								</div>
 							</div>
 						</div>
